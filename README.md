@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @greekmido 
+- 👋 Hi, I’m mohammad alameri (محمد العامري)
 - 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on fullstack projects 

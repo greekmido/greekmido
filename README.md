@@ -1,4 +1,14 @@
-- 👋 Hi, I’m mohammad alameri (محمد العامري)
+# mohammad alameri (محمد العامري):scorpius:
+
+### :computer: IT engineer
+after spending years of studing , teaching , trubleshooting , installing , connecting , backing up, protecting , delivering , purchasing , supporting, integrating , manipulating, and taming software systems across a wide range of applications from networks to servers 
+
+its the time to start building , creating , planning , designing ,testing , implementing , discussing , communicating , selling , developing , and enhancing software systems
+
+having this spectrum of knowledge under my belt i could really make a good software engineer 
+let this portfolio of projects prove me right .
+
+
 - 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on fullstack projects 

@@ -4,28 +4,28 @@
 ### 🎓:B.Sc.IT
 ### 💼: Head of IT in a manufacturing company
 
-**between** 🌍 **saudi arabia and jordan found home in south africa**🏠
+**between** 🌍 **Saudi Arabia and Jordan found home in south Africa**🏠
 
 > #### 👀 **`what really interest me?`**
 
-After spending years of studing, teaching, trubleshooting, installing, connecting, backing up,
+After spending years of studying, teaching, troubleshooting, installing, connecting, backing up,
 protecting, delivering, purchasing, supporting, integrating, manipulating, and taming software systems.
 
-across a wide range of applications from networks to servers in hospitals, schools, offices, hotels and resturnats.
+across a wide range of applications from networks to servers in hospitals, schools, offices, hotels and restaurants.
 from infrastructure to application, taking down every challenge i faced.   
 
 ---
 
-its the time to start: building , creating , planning , designing ,testing , implementing , discussing , communicating , selling , developing , and enhancing software systems
+it’s the time to start: building , creating , planning , designing ,testing , implementing , discussing , communicating , selling , developing , and enhancing software systems
 
 having this spectrum of knowledge i could really make a good software engineer 
-let this portfolio of projects prove me right .
+let this portfolio of projects prove me right.
 
->#### so the answer is : `fullstack development`
+>#### so the answer is : `full stack development`
 
 **(why?)**
 
-while enjoynig reasoning and building algorithms and data structures i also want to present it in a nice UX
+while enjoying reasoning and building algorithms and data structures i also want to present it in a nice UX
 
 - 🌱 I’m currently learning MERN stack 
 #### in addition to my technology stack ⌨️:

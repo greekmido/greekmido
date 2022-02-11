@@ -58,7 +58,7 @@ while enjoying reasoning and building algorithms and data structures i also want
 ![eclips-badge](https://img.shields.io/badge/-Eclipse%20IDE-gray?logo=Eclipse%20IDE&logoColor=white&labelColor=2C2255 "eclips")
 ![github-badge](https://img.shields.io/badge/-GitHub-gray?logo=github&logoColor=white&labelColor=181717 "github")
 ![npm-badge](https://img.shields.io/badge/-Npm-gray?logo=npm&logoColor=white&labelColor=CB3837 "npm")
-
+![webpack-badge](https://img.shields.io/badge/-WebPack-gray?logo=webpack&logoColor=white&labelColor=#8DD6F9 "webpack")
 
 - 💞️ I’m looking for a full-time software developer job 
 

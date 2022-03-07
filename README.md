@@ -44,7 +44,8 @@ while enjoying reasoning and building algorithms and data structures i also want
 ![mysql-badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white "MySql")
 ![mongoDB-badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white "MongoDb")
 ![-badge](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white "")
-![d3-badge](https://img.shields.io/badge/-D3-gray?logo=D3.js&logoColor=white&labelColor=F9A03C "D3")
+![d3-badge](https://img.shields.io/badge/-D3-F9A03C?style=for-the-badge&logo=D3.js&logoColor=white "D3")
+
 
 ### power tools
 
